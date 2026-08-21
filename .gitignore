@@ -1,0 +1,12 @@
+dist/
+
+# Disallow checking-in the executable
+/vault-benchmark
+
+# IDE specific stuff
+.idea/
+.vscode/
+
+# hidden metadata files 
+/data
+.DS_Store
